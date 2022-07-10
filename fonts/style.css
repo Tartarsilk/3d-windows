@@ -1,0 +1,79 @@
+@charset "UTF-8";
+@font-face {
+    font-family: Gilroy-Thin;
+    src: url(../fonts/Gilroy-Thin.eot?#iefix) format("embedded-opentype"), url(../fonts/Gilroy-Thin.woff) format("woff"), url(../fonts/Gilroy-Thin.ttf) format("truetype");
+}
+@font-face {
+    font-family: Gilroy-UltraLight;
+    src: url(../fonts/Gilroy-UltraLight.eot?#iefix) format("embedded-opentype"), url(../fonts/Gilroy-UltraLight.woff) format("woff"), url(../fonts/Gilroy-UltraLight.ttf) format("truetype");
+}
+@font-face {
+    font-family: Gilroy-Light;
+    src: url(../fonts/Gilroy-Light.eot?#iefix) format("embedded-opentype"), url(../fonts/Gilroy-Light.woff) format("woff"), url(../fonts/Gilroy-Light.ttf) format("truetype");
+}
+@font-face {
+    font-family: Gilroy-Regular;
+    src: url(../fonts/Gilroy-Regular.eot?#iefix) format("embedded-opentype"), url(../fonts/Gilroy-Regular.woff) format("woff"), url(../fonts/Gilroy-Regular.ttf) format("truetype");
+}
+@font-face {
+    font-family: Gilroy-Medium;
+    src: url(../fonts/Gilroy-Medium.eot?#iefix) format("embedded-opentype"), url(../fonts/Gilroy-Medium.woff) format("woff"), url(../fonts/Gilroy-Medium.ttf) format("truetype");
+}
+@font-face {
+    font-family: Gilroy-SemiBold;
+    src: url(../fonts/Gilroy-SemiBold.eot?#iefix) format("embedded-opentype"), url(../fonts/Gilroy-SemiBold.woff) format("woff"), url(../fonts/Gilroy-SemiBold.ttf) format("truetype");
+}
+@font-face {
+    font-family: Gilroy-Bold;
+    src: url(../fonts/Gilroy-Bold.eot?#iefix) format("embedded-opentype"), url(../fonts/Gilroy-Bold.woff) format("woff"), url(../fonts/Gilroy-Bold.ttf) format("truetype");
+}
+@font-face {
+    font-family: Gilroy-Heavy;
+    src: url(../fonts/Gilroy-Heavy.eot?#iefix) format("embedded-opentype"), url(../fonts/Gilroy-Heavy.woff) format("woff"), url(../fonts/Gilroy-Heavy.ttf) format("truetype");
+}
+@font-face {
+    font-family: Gilroy-ExtraBold;
+    src: url(../fonts/Gilroy-ExtraBold.eot?#iefix) format("embedded-opentype"), url(../fonts/Gilroy-ExtraBold.woff) format("woff"), url(../fonts/Gilroy-ExtraBold.ttf) format("truetype");
+}
+@font-face {
+    font-family: Gilroy-Black;
+    src: url(../fonts/Gilroy-Black.eot?#iefix) format("embedded-opentype"), url(../fonts/Gilroy-Black.woff) format("woff"), url(../fonts/Gilroy-Black.ttf) format("truetype");
+}
+
+
+@font-face {
+    font-family: Proxima Nova;
+    src: url(../fonts/proximanova_light.woff2) format("woff2"), url(../fonts/proximanova_light.eot?#iefix) format("embedded-opentype"), url(../fonts/proximanova_light.woff) format("woff"),
+        url(../fonts/proximanova_light.ttf) format("truetype");
+        font-weight: 300;
+}
+@font-face {
+    font-family: Proxima Nova;
+    src: url(../fonts/proximanova_bold.woff2) format("woff2"), url(../fonts/proximanova_bold.eot?#iefix) format("embedded-opentype"), url(../fonts/proximanova_bold.woff) format("woff"), url(../fonts/proximanova_bold.ttf) format("truetype");
+    font-weight: 700;
+}
+@font-face {
+    font-family: Proxima Nova;
+    src: url(../fonts/proximanova_black.woff2) format("woff2"), url(../fonts/proximanova_black.eot?#iefix) format("embedded-opentype"), url(../fonts/proximanova_black.woff) format("woff"), url(../fonts/proximanova_black.ttf) format("truetype");
+    font-weight: 900;
+}
+@font-face {
+    font-family: Proxima Nova;
+    src: url(../fonts/proximanova_extrabold.woff2) format("woff2"), url(../fonts/proximanova_extrabold.eot?#iefix) format("embedded-opentype"), url(../fonts/proximanova_extrabold.woff) format("woff"), url(../fonts/proximanova_extrabold.ttf) format("truetype");
+    font-weight: 800;
+}
+@font-face {
+    font-family: Proxima Nova;
+    src: url(../fonts/proximanova_light.woff2) format("woff2"), url(../fonts/proximanova_light.eot?#iefix) format("embedded-opentype"), url(../fonts/proximanova_light.woff) format("woff"), url(../fonts/proximanova_light.ttf) format("truetype");
+    font-weight: 200;
+}
+@font-face {
+    font-family: Proxima Nova;
+    src: url(../fonts/proximanova_regular.woff2) format("woff2"), url(../fonts/proximanova_regular.eot?#iefix) format("embedded-opentype"), url(../fonts/proximanova_regular.woff) format("woff"), url(../fonts/proximanova_regular.ttf) format("truetype");
+    font-weight: 400;
+}
+@font-face {
+    font-family: Proxima Nova;
+    src: url(../fonts/proximanova_thin.woff2) format("woff2"), url(../fonts/proximanova_thin.eot?#iefix) format("embedded-opentype"), url(../fonts/proximanova_thin.woff) format("woff"), url(../fonts/proximanova_thin.ttf) format("truetype");
+    font-weight: 100;
+}
